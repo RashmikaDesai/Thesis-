@@ -1,0 +1,5 @@
+Item,Query / Condition,Count
+Total survey responses,len(df),49191
+Responses with valid DevType,"df[""DevType""].notna().sum()",43680
+QA/test respondents,"DevType contains ""Developer, QA or test""",343
+Final usable QA/test sample,QA/test respondents with at least one readiness-related variable,343
