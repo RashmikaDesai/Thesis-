@@ -1,0 +1,16 @@
+PlatformHaveWorkedWith,Count,Percentage_of_QA_Test_Sample
+Docker,131,38.19
+npm,90,26.24
+Pip,86,25.07
+Amazon Web Services (AWS),76,22.16
+Kubernetes,52,15.16
+Maven (build tool),49,14.29
+Homebrew,47,13.7
+Microsoft Azure,40,11.66
+Make,38,11.08
+Yarn,36,10.5
+Google Cloud,35,10.2
+APT,32,9.33
+Gradle,31,9.04
+Ansible,29,8.45
+Chocolatey,27,7.87

@@ -1,0 +1,16 @@
+DevEnvsHaveWorkedWith,Count,Percentage_of_QA_Test_Sample
+Visual Studio Code,155,45.19
+IntelliJ IDEA,74,21.57
+Notepad++,72,20.99
+Vim,54,15.74
+PyCharm,54,15.74
+Visual Studio,47,13.7
+Android Studio,32,9.33
+Nano,27,7.87
+Cursor,26,7.58
+Claude Code,21,6.12
+Sublime Text,19,5.54
+Neovim,18,5.25
+Jupyter Notebook/JupyterLab,18,5.25
+Xcode,17,4.96
+Zed,15,4.37

@@ -1,0 +1,4 @@
+Proxy_Readiness_Level,Count,Percentage
+Higher proxy readiness,227,66.18
+Lower proxy readiness,71,20.7
+Moderate proxy readiness,45,13.12

@@ -1,0 +1,16 @@
+DatabaseHaveWorkedWith,Count,Percentage_of_QA_Test_Sample
+PostgreSQL,86,25.07
+Microsoft SQL Server,73,21.28
+MySQL,72,20.99
+SQLite,49,14.29
+MongoDB,42,12.24
+Elasticsearch,35,10.2
+Redis,33,9.62
+Oracle,30,8.75
+MariaDB,28,8.16
+Dynamodb,13,3.79
+BigQuery,13,3.79
+Microsoft Access,11,3.21
+InfluxDB,8,2.33
+Firebase Realtime Database,7,2.04
+Databricks SQL,6,1.75

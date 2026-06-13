@@ -1,0 +1,15 @@
+Chapter 4 Results Text
+
+The Stack Overflow Developer Survey dataset contained 49,191 responses. Of these, 43,680 responses had valid DevType role information. The filtering query selected respondents whose DevType value contained "Developer, QA or test", producing 343 QA/test respondents. After checking that each filtered case had at least one readiness-related variable available, the final usable QA/test sample remained 343 respondents.
+
+The filtered database was exported as filtered_qa_test_respondents.csv. This dataset should be interpreted as a QA/test professional subset rather than as a direct sample of manual testers or automation testers.
+
+The experience summary was: YearsCode: mean 12.47, median 10.0, N=336; WorkExp: mean 11.09, median 8.0, N=330. These indicators provide a proxy for technical maturity, but they do not directly prove automation competence.
+
+Programming-language exposure was used as a proxy for automation scripting readiness. The most frequent programming languages among QA/test respondents were: Python (162), JavaScript (157), Bash/Shell (all shells) (130), SQL (122), HTML/CSS (120).
+
+Platform exposure was used as a proxy for familiarity with modern software delivery environments. The most common platforms were: Docker (131), npm (90), Pip (86), Amazon Web Services (AWS) (76), Kubernetes (52).
+
+Development environment exposure was used as a proxy for practical tool ecosystem familiarity. The most common development environments were: Visual Studio Code (155), IntelliJ IDEA (74), Notepad++ (72), Vim (54), PyCharm (54).
+
+The exploratory proxy readiness profile was: Higher proxy readiness: 227 (66.18%); Lower proxy readiness: 71 (20.7%); Moderate proxy readiness: 45 (13.12%). This profile is proxy-based and should not be interpreted as a validated automation-readiness scale.

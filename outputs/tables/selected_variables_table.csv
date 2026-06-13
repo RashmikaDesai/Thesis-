@@ -1,0 +1,31 @@
+Variable,Purpose in the Study,Proxy Meaning
+ResponseId,Anonymous response identifier,Case identifier
+DevType,Filters QA/test respondents,Testing-oriented role
+YearsCode,Shows total coding experience,Technical maturity
+WorkExp,Shows work experience,Professional/work maturity
+EdLevel,Shows education level,Educational background
+LearnCode,Shows learning background,Learning pathway
+LearnCodeChoose,Relevant survey variable used in analysis,Contextual variable
+LearnCodeAI,Relevant survey variable used in analysis,Contextual variable
+LanguageHaveWorkedWith,Shows programming-language exposure,Automation scripting readiness
+LanguageWantToWorkWith,Relevant survey variable used in analysis,Contextual variable
+DatabaseHaveWorkedWith,Shows database exposure,Software environment familiarity
+DatabaseWantToWorkWith,Relevant survey variable used in analysis,Contextual variable
+PlatformHaveWorkedWith,Shows platform/cloud exposure,Modern software environment familiarity
+PlatformWantToWorkWith,Relevant survey variable used in analysis,Contextual variable
+WebframeHaveWorkedWith,Shows web framework exposure,Web automation context
+WebframeWantToWorkWith,Relevant survey variable used in analysis,Contextual variable
+DevEnvsHaveWorkedWith,Shows development environment exposure,Practical tool ecosystem familiarity
+DevEnvsWantToWorkWith,Relevant survey variable used in analysis,Contextual variable
+OfficeStackAsyncHaveWorkedWith,Relevant survey variable used in analysis,Contextual variable
+CommPlatformHaveWorkedWith,Relevant survey variable used in analysis,Contextual variable
+AISelect,Shows whether AI tools are used,Modern development practice
+AISent,Shows attitude toward AI tools,AI adoption attitude
+AIAcc,Shows trust in AI output accuracy,AI evaluation awareness
+AIComplex,Shows perceived complexity handling by AI,AI capability perception
+AIModelsHaveWorkedWith,Shows AI model exposure,AI ecosystem exposure
+AIModelsWantToWorkWith,Relevant survey variable used in analysis,Contextual variable
+AIAgents,Shows AI-agent use,Emerging AI-agent exposure
+AIAgent_Uses,Shows AI-agent use cases,AI workflow exposure
+AIHuman,Shows when human support remains preferred,Human judgement relevance
+AIOpen,Shows views on future skills with AI,Future skill relevance

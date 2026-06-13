@@ -1,0 +1,16 @@
+AIModelsHaveWorkedWith,Count,Percentage_of_QA_Test_Sample
+openAI GPT (chatbot models),106,30.9
+Anthropic: Claude Sonnet,54,15.74
+Gemini (Flash general purpose models),52,15.16
+openAI Reasoning models,39,11.37
+Gemini (Pro Reasoning models),33,9.62
+DeepSeek (R- Reasoning models),29,8.45
+openAI Image generating models,28,8.16
+Meta Llama (all models),24,7.0
+DeepSeek (V- General purpose models),19,5.54
+X Grok models,18,5.25
+Perplexity Sonar models,13,3.79
+Mistral AI models,10,2.92
+Alibaba Cloud Qwen models,7,2.04
+Microsoft Phi-4 models,6,1.75
+Amazon Titan models,2,0.58
